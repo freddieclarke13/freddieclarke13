@@ -4,9 +4,9 @@ I am a 3rd-year Computer Science student at Purdue University in West Lafayette,
 
 I have software engineering experience as an intern at:
 
-*   [Arity](https://www.arity.com) 🚗
-*   [Invision](https://www.invisionapp.com) 🎨
-*   [Citihub](https://www.citihub.com) ☁️
+*   [Arity](https://www.arity.com) 🚗 (Summer '22, '23)
+*   [Invision](https://www.invisionapp.com) 🎨 (Summer '21, '23)
+*   [Citihub](https://www.citihub.com) ☁️ (Summer '20)
 
 I'm interested in learnging about and working with:
 
