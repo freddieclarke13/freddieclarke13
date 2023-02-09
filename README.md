@@ -1,6 +1,6 @@
 My name is Freddie Clarke 👋
 
-I am a 3rd-year Computer Science student at Purdue University in West Lafayette, IN 👨🎓
+I am a 3rd-year Computer Science student at Purdue University in West Lafayette, IN 🎓
 
 I have software engineering experience as an intern at:
 
