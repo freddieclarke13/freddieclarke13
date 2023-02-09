@@ -13,3 +13,5 @@ I'm interested in learnging about and working with:
 *   API's 📡
 *   Java ☕
 *   Security 09🔒
+
+Check out my resume [here](https://github.com/freddieclarke13/resume/raw/main/resume-2-9-23.pdf)
